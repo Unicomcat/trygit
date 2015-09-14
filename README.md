@@ -1,4 +1,4 @@
 # trygit
 # the second line
-# the 3rd line
+# the 3rd lines
 
