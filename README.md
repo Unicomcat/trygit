@@ -1,3 +1,3 @@
 # trygit
-# the second line
+# the 2nd line
 # the third line
