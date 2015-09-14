@@ -1,9 +1,3 @@
 # trygit
-<<<<<<< HEAD
-# the second line
-# the 3rd line
-=======
-# the second line
-# the 3rd line
-
->>>>>>> feature1
+# the seco line
+# the 3 line
